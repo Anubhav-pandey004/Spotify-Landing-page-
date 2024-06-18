@@ -1,0 +1,48 @@
+.border{
+    border:  2px solid red;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.invert{
+    filter:invert(1);
+}
+.size{
+    height: 1.2rem;
+    width: 1.2rem;
+    filter:invert(1);
+}
+.invert{
+    filter: invert(1);
+}
+.spotify-img{
+    height: 1.7rem;
+    width: 1.7rem;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.active{
+    display: flex;
+}
+.songIcon{
+    margin-right: 1rem;
+    height: 2rem;
+    width: 2rem;
+    background-color: white;
+    border-radius: 50%;
+}
+.songslist ul{
+    padding: 0 12px;
+
+}
+.songslist ul li{
+    list-style: none;
+}
